@@ -1,0 +1,4 @@
+For this the Pandas HW, we used Jupyter Notebook, and the Pandas library to analyze data for a video game called "Heroes of Pymoli." With this dataset, I was able to  observe trends; such as:
+1) less than 15 percent are females players. Males are taking over with an astonishing 80 percent.
+2) Males took over the purchased items, with almost two thousand dollars in expenses.
+3) The 20-24 age group had most of the purchases in the game
